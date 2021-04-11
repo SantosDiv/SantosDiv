@@ -31,9 +31,11 @@ um mundo no qual a educação traz novos horizontes e, como programador, quero c
   <img src="https://github-readme-stats.vercel.app/api?username=SantosDiv&show_icons=true&theme=merko" alt="Stats by Diogenes Santos"/>
  </a>
 </p>
-   
-<h4> Projeto pessoal em andamento </h4>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SantosDiv&repo=github-readme-stats)]
+
+<h4> Principal projeto pessoal em andamento - Study Plataform </h4>
+<a href="https://github.com/SantosDiv/Projects/tree/main/study-plataform" target="_blank"> 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantosDiv&show_owner=true&repo=Projects" alt="Principal repositório de projeto pessoal" />
+</a>
 
 
 
