@@ -32,9 +32,9 @@ um mundo no qual a educação traz novos horizontes e, como programador, quero c
  </a>
 </p>
    
+<h4> Projeto pessoal em andamento </h4>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SantosDiv&repo=github-readme-stats)]
 
-
- 
 
 
 
