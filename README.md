@@ -1,7 +1,6 @@
 <p align="center">
  <h2 align="center">Olá, Hi, Hola, Ciao! Eu sou o Diogenes Santos 👋 </h2>
  <h5 align="center">Desenvolvedor Front-End</h5>
- <p> : </p>
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/diogenessant/" target="_blank">
