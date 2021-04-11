@@ -1,19 +1,39 @@
-### Olá! Hi! Hola! Ciao! 👋
- Me chamo Diogenes Santos, sou Brasileiro 🇧🇷 e nordestino da gema.
- 
- <p> 💬 - Sou um amante das linguagens (não convencionais). Sou Front-end em formação, e estudante de Ciências e Tecnologia na universidade Federal do RN - Brasil. Mas não é só de código que vive um bom programador. Gosto de uma boa música 🎵, ver uma série 📺 ou filme 🎞️. </p>
- <p>🔭 - Minha jornada na programação está iniciando. Programo a cerca de 9 meses. Mas garanto que cada degrau é uma conquista alcançada para mim. É de pequenos passos que o grande homem caminha. </p>
- <p>🌱 Enfim, espero contribuir e estou aberto a me deixar também formar por esse mundo de pessoas que há nesta comunidade. </p>
- 
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosDiv&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosDiv&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <h2 align="center">Olá, Hi, Hola, Ciao! Eu sou o Diogenes Santos 👋 </h2>
+ <h5 align="center">Desenvolvedor Front-End</h5>
+ <p> : </p>
+</p>
+<p align="center">
+ <a href="https://www.linkedin.com/in/diogenessant/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkdin Logo"/>
+ </a>
 
+ <a href="https://codepen.io/santosdiv" target="_blank">
+  <img src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Linkdin Logo"/>
+ </a>
 
-   📫 Deixo-vos com uma frase: "A pior prisão é um coração fechado". Só se cresce em comum! 
-   <p> Encontre-me também:</p>
+ <a href="https://santosdiv.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portifólio-gray?style=for-the-badge&logo=world&logoColor=white" alt="Linkdin Logo"/>
+ </a>
+</p>
+<h5> Me conheça um pouco </h5>
+<p align="justify">
+ Sou um jovem amante da diversidade, da qual, quase como que uma contradição, traz a unicidade das
+coisas. Gosto da tecnologia e de toda a agilidade que ela nos dá. Mas nunca deixo de lado um bom
+momento parado com meus livros ou jogando conversa fora junto com meus irmãos e pais. Acredito em
+um mundo no qual a educação traz novos horizontes e, como programador, quero contribuir para isso.
+</p>
+
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosDiv&layout=compact" alt="Top Langs by Diogenes Santos"/>
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantosDiv&show_icons=true&theme=merko" alt="Stats by Diogenes Santos"/>
+ </a>
+</p>
    
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogenes-santos-865758111/)](https://www.linkedin.com/in/diogenes-santos-865758111/)
+
 
  
 
