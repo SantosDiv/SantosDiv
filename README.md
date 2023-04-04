@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkdin Logo"/>
  </a>
 
- <a href="https://codepen.io/santosdiv" target="_blank">
-  <img src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Linkdin Logo"/>
- </a>
-
  <a href="https://santosdiv.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/-Portifólio-gray?style=for-the-badge&logo=world&logoColor=white" alt="Linkdin Logo"/>
  </a>
