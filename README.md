@@ -18,6 +18,13 @@ coisas. Gosto da tecnologia e de toda a agilidade que ela nos dá. Mas nunca dei
 momento parado com meus livros ou jogando conversa fora junto com meus irmãos e pais. Acredito em
 um mundo no qual a educação traz novos horizontes e, como programador, quero contribuir para isso.
 </p>
+Sou desenvolvedor fullstack, formado na Trybe, com cerca de 2 anos de experiência na área. Atualmente contribuo em projetos no setor da saúde, mas também já atuei em projetos voluntários da área da educação e religioso.
+
+Durante estes anos, desenvolvi projetos utilizando diversas tecnologias, tais como: Javascript ❤️, Ruby, Rails, ReactJS, Vue.js, React Native e PHP.
+
+Tudo isso utilizando boas práticas do desenvolvimento, como código limpo, POO, TDD e atualmente Domain Drive Design e arquitetura hexagonal.
+
+Especialidades: Javascript, ReactJs, Vue.js, React Native, Ruby e Ruby on Rails.
 
 <p align="center">
 <!--  <a href="https://github.com/anuraghazra/github-readme-stats">
