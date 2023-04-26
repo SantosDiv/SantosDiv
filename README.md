@@ -20,9 +20,9 @@ um mundo no qual a educação traz novos horizontes e, como programador, quero c
 </p>
 
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosDiv&layout=compact" alt="Top Langs by Diogenes Santos"/>
- </a>
+ </a> -->
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=SantosDiv&show_icons=true&theme=merko" alt="Stats by Diogenes Santos"/>
  </a>
