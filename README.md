@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkdin Logo"/>
  </a>
 
-<!--  <a href="https://santosdiv.github.io/" target="_blank">
+ <a href="https://diogenessantos.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portifólio-gray?style=for-the-badge&logo=world&logoColor=white" alt="Linkdin Logo"/>
- </a> -->
+ </a>
 </p>
 <h5> Me conheça um pouco </h5>
 <p align="justify">
