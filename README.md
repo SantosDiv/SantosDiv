@@ -7,24 +7,22 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkdin Logo"/>
  </a>
 
- <a href="https://diogenessantos.netlify.app/" target="_blank">
+ <!-- <a href="https://diogenessantos.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portifólio-gray?style=for-the-badge&logo=world&logoColor=white" alt="Linkdin Logo"/>
- </a>
+ </a> -->
 </p>
 <h5> Me conheça um pouco </h5>
 <p align="justify">
  Sou um jovem amante da diversidade, da qual, quase como que uma contradição, traz a unicidade das
 coisas. Gosto da tecnologia e de toda a agilidade que ela nos dá. Mas nunca deixo de lado um bom
-momento parado com meus livros ou jogando conversa fora junto com meus irmãos e pais. Acredito em
-um mundo no qual a educação traz novos horizontes e, como programador, quero contribuir para isso.
+momento parado com meus livros ou jogando conversa fora junto com meus amigos.
 </p>
-Sou desenvolvedor fullstack, formado na Trybe, com cerca de 2 anos de experiência na área. Atualmente contribuo em projetos no setor da saúde, mas também já atuei em projetos voluntários da área da educação e religioso.
-
-Durante estes anos, desenvolvi projetos utilizando diversas tecnologias, tais como: Javascript ❤️, Ruby, Rails, ReactJS, Vue.js, React Native e PHP.
-
-Tudo isso utilizando boas práticas do desenvolvimento, como código limpo, POO, TDD e atualmente Domain Drive Design e arquitetura hexagonal.
-
-Especialidades: Javascript, ReactJs, Vue.js, React Native, Ruby e Ruby on Rails.
+Engenheiro de Software com vasta experiência em desenvolvimento de software, comprometido a entregar resultados e resolver problemas com
+tecnologia. Ao longo da minha carreira, atuei em projetos desafiadores utilizando Ruby on Rails, JavaScript (React, Vue, NextJS, NuxtJS, Node, React
+Native), Python, PHP, Docker, SQL, NoSQL e Firebase. Tenho conhecimento em pipelines de CI/CD com Github Actions na AWS EC2 e DigitalOcean,
+assim como bancos de dados como Amazon RDS e Google Firestore, além de object storages como Amazon S3.
+Independente da tecnologia, meu foco é entregar soluções ponta a ponta, escaláveis, confiáveis e orientadas ao melhor custo, sempre garantindo
+valor em cada entrega.
 
 <p align="center">
 <!--  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,10 +50,10 @@ Especialidades: Javascript, ReactJs, Vue.js, React Native, Ruby e Ruby on Rails.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  </div>
 
-### Projetos
-<a href="https://github.com/SantosDiv/Projects/tree/main/study-plataform" target="_blank"> 
+<!-- ### Projetos
+ <a href="https://github.com/SantosDiv/Projects/tree/main/study-plataform" target="_blank"> 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantosDiv&show_owner=true&repo=Projects" alt="Principal repositório de projeto pessoal" />
-</a>
+</a> -->
 
 
 
